@@ -1,0 +1,45 @@
+First Name,Middle Name,Last Name,Born,Died,Started,Ended,Party ,Home State
+George,,Washington,2/22/1732,12/14/1799,4/30/1789,3/4/1797,Independent ,Virginia
+John,,Adams,10/30/1735,7/4/1826,3/4/1797,3/4/1801,Federalist ,Massachusetts
+Thomas,,Jefferson,4/13/1743,7/4/1826,3/4/1801,3/4/1809,Democratic-Republican ,Virginia
+James,,Madison,3/16/1751,6/28/1836,3/4/1809,3/4/1817,Democratic-Republican ,Virginia
+James,,Monroe,4/28/1758,7/4/1831,3/4/1817,3/4/1825,Democratic-Republican ,Virginia
+John,Quincy,Adams,7/11/1767,2/23/1848,3/4/1825,3/4/1829,Democratic-Republican/National Republican ,Massachusetts
+Andrew,,Jackson,3/15/1767,6/8/1845,3/4/1829,3/4/1837,Democratic ,Tennessee
+Martin,,Van Buren,12/5/1782,7/24/1862,3/4/1837,3/4/1841,Democratic ,New York
+William,Henry,Harrison,2/9/1773,4/4/1841,3/4/1841,4/4/1841,Whig,Ohio
+John,,Tyler,3/29/1790,1/18/1862,4/4/1841,3/4/1845,Whig,Virginia
+James,Knox,Polk,11/2/1795,6/15/1849,3/4/1845,3/4/1849,Democratic ,Tennessee
+Zachary,,Taylor,11/24/1784,7/9/1850,3/4/1849,7/9/1850,Whig,Louisiana
+Millard,,Fillmore,1/7/1800,3/8/1874,7/9/1850,3/4/1853,Whig,New York
+Franklin,,Pierce,11/3/1804,10/8/1869,3/4/1853,3/4/1857,Democratic ,New Hampshire
+James,,Buchanan,4/23/1791,6/1/1868,3/4/1857,3/4/1861,Democratic ,Pennsylvania
+Abraham,,Lincoln,2/12/1809,4/15/1865,3/4/1861,4/15/1865,Republican/National Union,Illinois
+Andrew,,Johnson,12/29/1808,7/31/1875,4/15/1865,3/4/1869,Democratic/National Union,Tennessee
+Ulysses,S,Grant,4/27/1822,7/23/1885,3/4/1869,3/4/1877,Republican ,Ohio
+Rutherford,Birchard,Hayes,10/4/1822,1/17/1893,3/4/1877,3/4/1881,Republican ,Ohio
+James,Abram,Garfield,11/19/1831,9/19/1881,3/4/1881,9/19/1881,Republican ,Ohio
+Chester,Alan,Arthur,10/5/1830,11/18/1886,9/19/1881,3/4/1885,Republican ,New York
+Grover,,Cleveland,3/18/1837,6/24/1908,3/4/1885,3/4/1889,Democratic ,New York
+Benjamin,,Harrison,8/20/1833,3/13/1901,3/4/1889,3/4/1893,Republican ,Indiana
+Grover,,Cleveland,3/18/1837,6/24/1908,3/4/1893,3/4/1897,Democratic ,New York
+William,,McKinley,1/29/1843,9/14/1901,3/4/1897,9/14/1901,Republican ,Ohio
+Theodore,,Roosevelt,10/27/1858,1/6/1919,9/14/1901,3/4/1909,Republican ,New York
+William,Howard,Taft,9/15/1857,3/8/1930,3/4/1909,3/4/1913,Republican ,Ohio
+Woodrow,,Wilson,12/28/1856,2/3/1924,3/4/1913,3/4/1921,Democratic ,New Jersey
+Warren,Gamaliel,Harding,11/2/1865,8/2/1923,3/4/1921,8/2/1923,Republican ,Ohio
+Calvin,,Coolidge,7/4/1872,1/5/1933,8/2/1923,3/4/1929,Republican ,Massachusetts
+Herbert,Clark,Hoover,8/10/1874,10/20/1964,3/4/1929,3/4/1933,Republican ,Iowa
+Franklin,Delano,Roosevelt,1/30/1882,4/12/1945,3/4/1933,4/12/1945,Democratic,New York
+Harry,S,Truman,5/8/1884,12/26/1972,4/12/1945,1/20/1953,Democratic,Missouri
+Dwight,David,Eisenhower,10/14/1890,3/28/1969,1/20/1953,1/20/1961,Republican ,Texas
+John,Fitzgerald,Kennedy,5/29/1917,11/22/1963,1/20/1961,11/22/1963,Democratic,Massachusetts
+Lyndon,Baines,Johnson,8/27/1908,1/22/1973,11/22/1963,1/20/1969,Democratic,Texas
+Richard,Milhous,Nixon,1/9/1913,4/22/1994,1/20/1969,8/9/1974,Republican,California
+Gerald,Rudolph,Ford,7/14/1913,12/26/2006,8/9/1974,1/20/1977,Republican,Michigan
+Jimmy,,Carter,10/1/1924,,1/20/1977,1/20/1981,Democratic ,Georgia
+Ronald,Wilson,Reagan,2/6/1911,6/5/2004,1/20/1981,1/20/1989,Republican ,California
+George,Herbert Walker,Bush,6/12/1924,,1/20/1989,1/20/1993,Republican ,Texas
+William,Jefferson,Clinton,8/19/1946,,1/20/1993,1/20/2001,Democratic ,Arkansas
+George,Walker,Bush,7/6/1946,,1/20/2001,1/20/2009,Republican ,Texas
+Barack,Hussein,Obama,8/4/1961,,1/20/2009,,Democratic   ,Illinois
