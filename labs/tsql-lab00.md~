@@ -21,16 +21,15 @@
 # Working Commands
 
 1. dir ?< directoryname >
-1. mkdir < directoryname >
-1. cd < directoryname >
 1. files: ".", ".."
+1. mkdir < directoryname >
+1. rmdir < directoryname >
 1. creating files:
     1. notepad test1.txt
     1. & 'C:\Program Files\Notepad++\notepad++.exe' test2.txt
     1. Write-Output "this is test 3" > test3.txt
 1. del <filename>
-1. cd ..
-1. rmdir < directoryname >
+1. cd <directoryname>
 1. copy < source > < destination >
 1. move < source > < destination >
 
