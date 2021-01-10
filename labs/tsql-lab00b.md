@@ -68,8 +68,18 @@ Create the following directory structure:
 
 
     ISTA220
-        README.md (file)
-        .gitignore (file)
         Exercises (directory)
         Homework (directory)
         Labs (directory)
+    ISTA420
+        Exercises (directory)
+        Homework (directory)
+        Labs (directory)
+    ISTA322
+        Exercises (directory)
+        Homework (directory)
+        Labs (directory)
+    CSharp
+    Database
+    Project
+        Steps1-3

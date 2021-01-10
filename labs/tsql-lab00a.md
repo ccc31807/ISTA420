@@ -20,13 +20,13 @@
 
 # Working Commands
 
-1. dir ?< directoryname >
+1. dir < directoryname >
 1. mkdir < directoryname >
 1. cd < directoryname >
 1. files: ".", ".."
 1. creating files:
     1. notepad test1.txt
-    1. & 'C:\Program Files\Notepad++\notepad++.exe' test2.txt
+    1. notepad++ test2.txt or [& 'C:\Program Files\Notepad++\notepad++.exe' test3.txt]
     1. Write-Output "this is test 3" > test3.txt
 1. del <filename>
 1. cd ..
@@ -36,12 +36,4 @@
 
 # Exercise
 
-Create the following directory structure:
-
-
-    ISTA420
-        README.md (file)
-        .gitignore (file)
-        Exercises (directory)
-        Homework (directory)
-        Labs (directory)
+Create a PowerShell transcript with examples of the above commands.
